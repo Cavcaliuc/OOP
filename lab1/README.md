@@ -1,4 +1,4 @@
-## LAB 1
+# Laboratory 1
 
 In this first laboratory work I created 2 objects with different parameters and compared by one of them, the height.
 
