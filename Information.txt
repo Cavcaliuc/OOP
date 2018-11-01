@@ -1,5 +1,0 @@
-Method Overloading - When a class has two or more methods by the same name but different parameters, it is known as method overloading.
-It is different from overriding. In overriding, a method has the same method name, type, number of parameters, etc.
-Let’s consider the example discussed earlier for finding minimum numbers of integer type.
-If, let’s say we want to find the minimum number of double type!
-Then the concept of overloading will be introduced to create two or more methods with the same name but different parameters.
